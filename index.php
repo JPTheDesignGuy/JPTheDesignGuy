@@ -342,7 +342,7 @@ I've been designing professionally for around 16 years now. In that time I’ve 
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <span class="copyright">Copyright &copy; 2015 <br>www.JPTheDesignGuy.com <br> All Rights Reserved</span>
+                    <span class="copyright">Copyright &copy; 2015 - JPTheDesignGuy <br> All Rights Reserved <br> <a href="https://github.com/JPTheDesignGuy/JPTheDesignGuy" title="The Code">The Code</a></span>
                 </div>
             </div>
         </div>
