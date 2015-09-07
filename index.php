@@ -339,10 +339,11 @@ I've been designing professionally for around 16 years now. In that time I’ve 
     
     <!-- Copyright Section -->
     <footer>
-        <div class="container">
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-md-12">
-                    <span class="copyright">Copyright &copy; 2015 - JPTheDesignGuy <br> All Rights Reserved <br> <a href="https://github.com/JPTheDesignGuy/JPTheDesignGuy" title="The Code">The Code</a></span>
+                <div class="col-sm-12">
+                    <span class="copyright">Copyright &copy; 2015 - JPTheDesignGuy <br> All Rights Reserved <br> 
+                    <a href="https://github.com/JPTheDesignGuy/JPTheDesignGuy" target="_blank "title="The Code"><img class="rabbit"src="img/footer/theWhiteRabbit.png"></a></span>
                 </div>
             </div>
         </div>
@@ -366,7 +367,7 @@ I've been designing professionally for around 16 years now. In that time I’ve 
                     </div>
                 </div>
             </div>
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
@@ -388,7 +389,7 @@ I've been designing professionally for around 16 years now. In that time I’ve 
                     </div>
                 </div>
             </div>
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
@@ -410,7 +411,7 @@ I've been designing professionally for around 16 years now. In that time I’ve 
                     </div>
                 </div>
             </div>
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
@@ -432,7 +433,7 @@ I've been designing professionally for around 16 years now. In that time I’ve 
                     </div>
                 </div>
             </div>
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
@@ -454,7 +455,7 @@ I've been designing professionally for around 16 years now. In that time I’ve 
                     </div>
                 </div>
             </div>
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
@@ -476,7 +477,7 @@ I've been designing professionally for around 16 years now. In that time I’ve 
                     </div>
                 </div>
             </div>
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
@@ -498,7 +499,7 @@ I've been designing professionally for around 16 years now. In that time I’ve 
                     </div>
                 </div>
             </div>
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
